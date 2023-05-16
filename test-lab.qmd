@@ -1,0 +1,27 @@
+---
+title: "GitHub Test"
+author: "Laura Edwards"
+format: html
+editor: visual
+---
+
+# Test Lab
+
+Today we'll be practicing how to install a package and make a data visualization.
+
+## Install and load 'tidyverse' and 'nycflights13' packages
+
+Run this code below:
+
+```{r}
+install.packages("tidyverse")
+install.packages("nycflights13")
+library(tidyverse)
+library(nycflights13)
+```
+
+Now make one graph of anything you want from the 'nycflights13' dataset in the code chunk below:
+
+```{r}
+# your code here
+```
